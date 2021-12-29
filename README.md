@@ -4,7 +4,6 @@
 </p>
 
 # Proyecto La Liga
-Proyecto realizado durante el curso de full stack developer.  
 En este proyecto se desarrolla una aplicación web para consultar los datos de la liga santander 2021 a través de la api <a href="https://www.football-data.org"> football-data.org </a>. Cuenta con varios apartados tales como inicio, partidos, clasificación y estadísticas
 
 ### Tecnologías utilizadas
