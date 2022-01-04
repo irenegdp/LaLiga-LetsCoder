@@ -14,7 +14,7 @@ En este proyecto se desarrolla una aplicación web para consultar los datos de l
 
 ### Descripción del proyecto
 #### Inicio
-La pagina de inicio muestra noticias recientes de deportes realizando una consulta a la api <a href="https://newsapi.org"> newsapi.org </a>  
+La página de inicio muestra noticias recientes de deportes realizando una consulta a la api <a href="https://newsapi.org"> newsapi.org </a>  
 
 ![image](https://user-images.githubusercontent.com/77295901/147590247-48df9a6f-8b03-4627-b7fd-48ed82f75882.png)  
 
